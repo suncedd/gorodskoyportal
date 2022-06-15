@@ -1,0 +1,28 @@
+
+#links_def{
+    display: block;
+}
+#inp1{
+    display: block;
+}
+#pl{
+    display: block;
+}
+#del{
+    display: block;
+}
+
+    
+
+.table{
+    width: 1170px;
+    margin: auto;
+    border: solid 1px gray;
+}
+.table td{
+    border: solid 1px gray;
+}
+.img_table{
+    width: 100px;
+    height: 70px;
+}
